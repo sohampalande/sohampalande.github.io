@@ -1,0 +1,61 @@
+body{
+    background-color:#F7FEFC !important ;
+    margin: 0px;
+}
+
+#title {
+    background-color:#F7FEFC !important;
+}
+.firstsplit {
+    border: solid  rgb(197, 207, 207) 2px;
+    border-bottom: none;
+    width: 95%;
+    margin-top: 0 !important;
+    margin-bottom: 2.3rem;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding-bottom: 0px !important;
+    
+}
+.navbar-custom {
+    background-color: #F7FEFC;
+    border-bottom: solid  rgb(197, 207, 207) 2px;
+}
+
+.bar {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+/* the title name- bootstrap refers as navbar brand */
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 3rem !important;
+    letter-spacing: -3px;
+    margin-left: 40px;
+}
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.nav-item:hover{
+    background-color: #F7E7CE;
+    
+}
+
+/* Carousel  */
+#imagescarousel {
+    padding: 5% 0%; 
+    background-color: #222831;
+    height: 100vh;
+
+}
+

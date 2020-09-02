@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Soham Palande</title>
+        <link rel="stylesheet" type="text/css" href="CSS/styles.css">
+        <link rel="icon" href="favicon.ico">
+        <link href="https://fonts.googleapis.com/css2?family=Lekton&family=Muli:wght@300;400&family=Source+Code+Pro:wght@400;500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/9a579023e5.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.fill%2CIntersectionObserver%2CObject.assign%2CPromise%2CArray.from%2CArray.prototype.find%2CMath.sign"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
+    </head>
+
+
+
+    <body>
+
+        <section id="title">
+            <div class="container-fluid bar">
+            <!--Navbar-->
+        
+            <nav class="navbar navbar-light navbar-expand-lg ">
+
+            <a class="navbar-brand" href="#intro">Soham Palande</a>
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a class="nav-link" href="#researchprojects">Research + Projects</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link" href=""  > Work </a>
+                        </li>
+                        
+                        <li class="nav-item"><a class="nav-link" href="">Interests</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#footer">Contact</a></li>
+                    </ul>
+                </div>  
+            </nav>
+            </div>
+            <hr class="firstsplit">
+        </section>
+
+        <!-- Wrapping in main wrapper to support footer for dynamic body content using flexbox -->
+        <div id="main-wrapper">      
+        <section id="intro">
+            <!--Introduction-->
+            
+
+            
+            <div class="container intro-container">
+                <div class="row ">
+                <div class="myimage col-4 col-lg-offset-2 gauche">
+                    <img class="mypicture intro_item" src="images/personalwebsite.png" alt="Profile Picture">
+                </div>
+            
+                <div class="intro_text col-8">
+                    <p class="introduction intro_item"></p>
+                    
+                    <script>
+                        if (!sessionStorage.getItem("firstTime")) {
+                        
+                        new TypeIt(".introduction", {
+                            speed: 65
+                        })
+                        .pause(1000)
+                        .type("Hell")
+                        .pause(600)
+                        .delete(3)
+                        .type("i! ")
+                        .pause(700)
+                        .type("<b>I’m Soham</b>")
+                        .pause(700)
+                        .type(" - I am a student ")
+                        .type("studying <b>Computer Science</b> and ")
+                        .type("<b>Mathematics</b> at Rutgers ")
+                        .type("University. ")
+                        .pause(700)
+                        .type("I have a pasion")
+                        .pause(500)
+                        .move(-3)
+                        .pause(100)
+                        .type("s")
+                        .pause(250)
+                        .move(3)
+                        .type(" for ")
+                        .type("<b>Software Development</b> and <b>Applied</b> ")
+                        .type("<b>Mathematics</b>.")
+                        .pause(700)
+                        .type("My intersts ")
+                        .pause(500)
+                        .delete(4)
+                        .pause(250)
+                        .type("ests include")
+                        .pause(500)
+                        .type(" applied math in")
+                        .type("- ML, ")
+                        .pause(250)
+                        .type("<b>Data Science</b>, ")
+                        .pause(250)
+                        .type("<b>Computational Social Science</b> ")
+                        .pause(250)                       
+                        .type("<b>Renewable</b> ")
+                        .type("<b>Energy and Finance</b>")
+                        .go();
+                        sessionStorage.setItem("firstTime","true");
+                        }
+                        else {
+                            document.getElementsByClassName("introduction")[0].innerHTML = "Hi! <b>I’m Soham</b> - I am a student studying <b>Computer Science</b> and <b>Mathematics</b> at Rutgers University. I have a passion for <b>Software Development</b> and <b>Applied Mathematics</b>. My interests include applied math in- ML, <b>Data Science</b>, <b>Computational Social Science</b>, <b>Renewable Energy</b>, and <b>Finance</b>";
+                        }
+
+                    </script>
+                </div> 
+            </div>
+            </div>   
+            </div>
+            
+        
+        </section>
+
+        <section id="researchprojects">
+            <div class="container ">
+
+            <div class="row" id="researchprojects">
+
+            <div style="display: block;" class="col-6 col-lg-offset-2 gauche">
+                <h2 id="researchtitle">Research</h2>
+                        <div class="research-item">
+                            <div><h3><a href="aresty.html">Aresty Fellow</a></h3>
+                            <p>Exploring state-of-the-art applications of CNN's at the Rutgers Energy Lab</p></div></div>
+                        <div class="research-item">
+                            <div><h3><a href="undergraduate.html">Undergraduate Research Assistant</a></h3>
+                            <p>Processed user data through baseline models in Wi-Fi enabled transportation services using spatio-temporal and demographics data for Smart-City Applications</p></div></div>
+            </div>
+
+            <div style="display: block;" class="col-6">
+                <h2 id="projecttitle">Projects</h2>
+                        <div class="project-item">
+                            <div><h3><a href="https://github.com/sohampalande/Trigger-Word-Detection">NLP Trigger Word Detection</a></h3>
+                            <p>Designed and trained a trigger word detection model by implementing a deep neural network </p></div></div>
+                        <div class="project-item">
+                            <div><h3><a href="undergraduate.html">Rapbot AI</a></h3>
+                            <p>Fine-tuned the GPT-2 model using supervised learning to output lyrics in the style of a given artist and compiled a large training set by scraping and and preprocessing lyrics using the Genius API</p></div></div>
+                        <div class="project-item">
+                            <div><h3><a href="undergraduate.html">COVID-19 Storyboard</a></h3>
+                            <p>Built a highly interactive COVID-19 storyboard using Tableau</p></div></div>
+                        <div class="project-item">
+                            <div><h3><a href="undergraduate.html">*             *</a></h3>
+                            <p></p></div></div>
+            </div>
+        </div>
+        </div>
+        <hr class="firstsplit">
+        </section>
+
+
+
+
+
+
+
+        <footer class="page-footer" id="footer">
+
+                <!-- Footer Elements -->
+                <div class="container">
+  
+                    <!-- Grid row-->
+                    <div class="row">
+  
+                        <!-- Grid column -->
+                        <div class="col-md-12 py-5">
+                             <div class="mb-5 flex-center">
+            
+            
+                                <!-- Mail -->
+                                <a class="fb-ic icon" href="mailto:palandesoham@gmail.com">
+                                <i class="fas fa-envelope fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                </a>
+                                <!-- Facebook -->
+                                <a class="fb-ic icon" href="https://www.facebook.com/soham.palande.391">
+                                <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                </a>
+                                <!-- Twitter -->
+                                <a class="tw-ic icon" href="https://twitter.com/sohampalande_">
+                                <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                </a>
+                                <!-- Github +-->
+                                <a class="gplus-ic icon" href="https://github.com/sohampalande">
+                                <i class="fab fa-github fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                
+                                </a>
+                                <!--Linkedin -->
+                                <a class="li-ic icon" href="https://linkedin.com/in/sohampalande">
+                                <i class="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                                </a>
+                            </div>
+                                </div>
+                                <!-- Grid column -->
+                        
+                            </div>
+                            <!-- Grid row-->
+                        
+                            </div>
+                            <!-- Footer Elements -->
+                        
+                        </footer>
+                    </body>
+
+            </div>
+
+
+</html>
+
+
+
+<!--font-family: 'Lekton', sans-serif;
+font-family: 'Muli', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Nunito', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Roboto', sans-serif;-->
+
+
+<!--181818- grayish
+    F7FEFC- mint cream-->

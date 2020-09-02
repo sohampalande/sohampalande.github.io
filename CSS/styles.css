@@ -1,0 +1,171 @@
+body{
+    background-color:#F7FEFC !important ;
+    margin: 0px;
+}
+
+#main-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+
+b {
+    font-weight: 725;
+}
+
+
+#title {
+    background-color:#F7FEFC !important;
+}
+
+.firstsplit {
+    border: solid  rgb(197, 207, 207) 2px;
+    border-bottom: none;
+    width: 95%;
+    margin-top: 0 !important;
+    margin-bottom: 5.5rem;
+}
+
+
+
+
+/* Intro*/
+
+.intro_text {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 120;
+    font-size: 2rem ;
+    color: #2b1d0d;
+    padding-left: 40px !important;
+
+}
+
+
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding-top: 17px !important;
+    padding-bottom: 0px !important;
+}
+.bar {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+     /* the title name- bootstrap refers as navbar brand */
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 4.5rem !important;
+    letter-spacing: -3px;
+    margin-left: 40px;
+}
+.navbar-brand:hover {
+    opacity: 0.8;
+    transform: scale(1.009);
+}
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.nav-item:hover{
+    background-color: #F7E7CE;
+    
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+/* Research + Projects Section */
+
+#researchprojects {
+  margin-top: 11rem;
+}
+
+#researchtitle {
+    font-family: 'Roboto', sans-serif;
+
+    font-weight: 500;
+}
+#projecttitle {
+    font-family: 'Roboto', sans-serif;
+    
+    font-weight: 500;
+}
+.research-item {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 120;
+    color: #212529 !important;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.project-item {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 120;
+    color: #212529 !important;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+a {
+    color: #212529!important;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/* Connect Icons */
+
+.icon {
+    /* margin:70px 20px 15px; */
+    color: #333333;
+}
+/* #Connect {
+    text-align: center !important;
+    position: absolute;
+    bottom: 3%;
+    width: 100%;  
+
+} */
+footer {
+    text-align: center;
+    padding-top: 2%;
+    position: absolute;
+    width: 100%;
+}
+.fab:hover {
+    opacity: 0.8;
+    color: #333333;
+    transform: scale(1.2);
+}
+.fas:hover {
+    opacity: 0.8;
+    color: #333333;
+}
+
+
+
+
+
+
+/* Picture+text */
+.intro_item{
+    margin: 0 35px;
+}
+.mypicture {
+    margin-bottom: 50px;
+}
+
+/* Interests */
+
