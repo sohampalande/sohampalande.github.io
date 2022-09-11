@@ -247,8 +247,10 @@ blockquote {
 
 .social {
   text-align: center;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
   .contact-icons {
-    font-size: 2rem;
+    font-size: 1.95rem;
     a {
       i::before {
         color: var(--global-text-color);
