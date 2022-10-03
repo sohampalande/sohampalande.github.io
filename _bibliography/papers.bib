@@ -83,6 +83,18 @@ book{przibram1967letters,
   preview={wave-mechanics.gif}
 }
 
+@article{palande_quantum_comp,
+  abbr={Aresty},
+  title={Understanding Correlated Error Events in Quantum Computers},
+  author={Gupta, Arpan and Schleppy, Michael and Palande, Soham and Huang, Yipeng},
+  abstract={Quantum Computing is at a critical juncture. Prototype quantum computers are now at a level of reliability and scale where researchers can run small scale algorithms. However, modeling errors in near-term Noisy Intermediate-Scale Quantum (NISQ) devices is necessary to harness their full potential. Existing frameworks such as IBM Qiskit are limited in their capacity to model and simulate complex noise events. We study the use of Probabilistic Graphical Models (PGMs) as a natural abstraction to efficiently simulate and model quantum circuits with no noise, uncorrelated noise (bit-flip and amplitude damping) and correlated noise using complex-valued Bayesian networks. By definition, Bayesian networks are a type of PGM that articulate conditional dependencies between events through the use of Directed Acyclic Graphs (DAGs). We study well-known quantum algorithms such as Deutsch- Jozsa and Simon’s algorithms, and transform their circuit representations into Bayesian network models by extending Python’s pgmpy library to allow for complex- valued networks. By using exact inference algorithms like Variable Elimination, we are able to create valuable inferences that can be converted into density matrices using our extension of pgmpy. We validate that our models produce correct density matrices for noisy Quantum circuits using IBM Qiskit, showing that Bayesian networks are a valid abstraction for Quantum correlated and uncorrelated noise events. The correctness of our results point to new languages and methods for representing Quantum Computations},
+  journal={Aresty Research Symposium,},
+  year={2022},
+  month={April},
+  html={https://bit.ly/3V0degK},
+  pdf={ArestyQuantumCompPoster.pdf},
+  selected={true}
+}
 
 @article{palande_aziz,
   abbr={Aresty},
@@ -98,16 +110,4 @@ book{przibram1967letters,
 }
 
 
-@article{palande_quantum_comp,
-  abbr={Aresty},
-  title={Understanding Correlated Error Events in Quantum Computers},
-  author={Gupta, Arpan and Schleppy, Michael and Palande, Soham and Huang, Yipeng},
-  abstract={Quantum Computing is at a critical juncture. Prototype quantum computers are now at a level of reliability and scale where researchers can run small scale algorithms. However, modeling errors in near-term Noisy Intermediate-Scale Quantum (NISQ) devices is necessary to harness their full potential. Existing frameworks such as IBM Qiskit are limited in their capacity to model and simulate complex noise events. We study the use of Probabilistic Graphical Models (PGMs) as a natural abstraction to efficiently simulate and model quantum circuits with no noise, uncorrelated noise (bit-flip and amplitude damping) and correlated noise using complex-valued Bayesian networks. By definition, Bayesian networks are a type of PGM that articulate conditional dependencies between events through the use of Directed Acyclic Graphs (DAGs). We study well-known quantum algorithms such as Deutsch- Jozsa and Simon’s algorithms, and transform their circuit representations into Bayesian network models by extending Python’s pgmpy library to allow for complex- valued networks. By using exact inference algorithms like Variable Elimination, we are able to create valuable inferences that can be converted into density matrices using our extension of pgmpy. We validate that our models produce correct density matrices for noisy Quantum circuits using IBM Qiskit, showing that Bayesian networks are a valid abstraction for Quantum correlated and uncorrelated noise events. The correctness of our results point to new languages and methods for representing Quantum Computations},
-  journal={Aresty Research Symposium,},
-  year={2022},
-  month={April},
-  html={https://bit.ly/3V0degK},
-  pdf={ArestyQuantumCompPoster.pdf},
-  selected={true}
-}
 
