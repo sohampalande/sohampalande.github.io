@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Soham. Currently, I am a Research Intern in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) team working with the Time-Series group on Deep Generative Models to generate synthetic time-series data. 
 
-<strong>Research:</strong> My research interests lie broadly in statistical machine learning and are motivated by applications in finance and healthcare. I am interested in building <b>scalable</b>, <b>interpretable</b> machine learning models that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b> data sources- images/video, measurements, graphs, natural language- while also taking into account the structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions. 
+<strong>Research:</strong> My research interests lie broadly in statistical machine learning and are motivated by applications in finance and healthcare. I am interested in building <b>scalable</b>, <b>interpretable</b> machine learning models that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b> data sources- images/video, measurements, graphs, speech, natural language- while also taking into account the structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions. 
 
 I am also interested in adjacent areas such as: few-shot/continual learning, optimization, generative models, clustering/anomaly detection, decision making under uncertainty, time series forecasting, and in synthetic data generation.  
 
