@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Soham. Currently, I am a Research Intern in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) team working with the Time-Series group on Deep Generative Models to generate synthetic time-series data. 
 
-<strong>Research:</strong> My research interests are motivated by applications in Finance and Healthcare. I am interested in building forecasting machine learning models that are robust to <b> distribution shifts within the longitudinal data domain </b> i.e. distribution shifts over time. The data can take various forms- images/video, measurements, graphs, natural language etc. but it should have a temporal component i.e. it should be collected over time. I am also interested in deriving meaningful insights (time-series analysis) by synthesizing diverse, noisy time-series datasets, and in synthetic data generation, uncertainty quantification, and few-shot/continual learning.  
+<strong>Research:</strong> My research interests lie broadly in statistical machine learning and are motivated by applications in finance and healthcare. I am interested in building <b>scalable</b>, <b>interpretable</b> machine learning models that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b> data sources- images/video, measurements, graphs, natural language- while also taking into account the structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions. 
+
+I am also interested in adjacent areas such as: few-shot/continual learning, optimization, generative models, clustering/anomaly detection, decision making under uncertainty, time series forecasting, and in synthetic data generation.  
 
 <!-- <ul>
   <li class="">Designing mechanisms to <b>define</b> and <b>detect</b> distribution shifts in various types of data in real time</li>
