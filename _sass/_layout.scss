@@ -26,12 +26,15 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+//modify margins for intro text 
+
 // Profile
 .profile {
   img {
     width: 100%;
   }
   margin-right: 15px;
+  margin-bottom: 10px;
 }
 
 // TODO: redefine content layout.
