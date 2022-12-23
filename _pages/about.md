@@ -22,7 +22,7 @@ Hi, I'm Soham. Currently, I am a Research Intern in [J.P. Morgan's AI Research](
 
 <strong>Research:</strong> My research interests lie broadly in statistical machine learning and are motivated by applications in finance and healthcare. I am interested in building <b>scalable</b>, <b>interpretable</b> machine learning models that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b> data sources- images/video, measurements, graphs, speech, natural language- while also taking into account the structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions. 
 
-I am also interested in adjacent areas such as: few-shot/continual learning, optimization, generative models, clustering/anomaly detection, decision making under uncertainty, time series forecasting, and in synthetic data generation.  
+I am also interested in adjacent areas such as: few-shot/continual learning, optimization, generative models, clustering/anomaly detection, decision making under uncertainty, time series forecasting, and synthetic data generation.  
 
 <!-- <ul>
   <li class="">Designing mechanisms to <b>define</b> and <b>detect</b> distribution shifts in various types of data in real time</li>
@@ -36,7 +36,7 @@ I am also interested in adjacent areas such as: few-shot/continual learning, opt
   </li>
 </ul> -->
 
-<strong>Previously:</strong> I recently graduated from [Rutgers University-NB](https://www.rutgers.edu/) majoring in Computer Science and Mathematics. I was an R&D in intern at [L3Harris](https://www.l3harris.com/) where I worked on building anomaly detection models. 
+<strong>Previously:</strong> I recently graduated from [Rutgers University-NB](https://www.rutgers.edu/) majoring in Computer Science and Mathematics. I was an R&D intern at [L3Harris](https://www.l3harris.com/) where I worked on building anomaly detection models. 
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
