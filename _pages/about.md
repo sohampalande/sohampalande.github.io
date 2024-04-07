@@ -20,9 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Soham. Currently, I am a researcher in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) team working with the Time-Series group on Deep Generative Models to generate synthetic time-series data. 
 
-<strong>Research:</strong> My research interests lie broadly in statistical machine learning and are motivated by applications in finance and healthcare. I am interested in building <b>scalable</b>, <b>interpretable</b> machine learning models that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b>, or <b>sequential</b>, data sources- graphs, speech, video, longitudinal data etc.- while also taking into account the structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions. 
-
-I am also interested in adjacent areas such as: few-shot/continual learning, optimization, physics-based models, generative models, clustering/anomaly detection, decision making under uncertainty, time series forecasting, ablation studies, and synthetic data generation - all within the context of using sequential data sources.  
+<strong>Research:</strong> My research interests lie broadly in algorithmic and statistical machine learning and are motivated by applications in finance and healthcare. I am interested in developing <b>scalable</b>, <b>interpretable</b> machine learning models and learning paradigms operating on multi-modal data sources that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b>, or <b>sequential</b>, data sources- graphs, speech, video, longitudinal data etc.- while also exploiting the geometric structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions. 
+  
 
 <!-- <ul>
   <li class="">Designing mechanisms to <b>define</b> and <b>detect</b> distribution shifts in various types of data in real time</li>
