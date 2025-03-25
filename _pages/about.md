@@ -18,11 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Soham. Currently, I am a research engineer in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) team working with the Time Series group. 
 
-<!-- <strong>Research:</strong> My research interests lie broadly in algorithmic and statistical machine learning and are motivated by applications in finance and healthcare. I am interested in developing <b>scalable</b>, <b>interpretable</b> machine learning models and learning paradigms operating on multi-modal data sources that can generalize well out of distribution to derive insights from diverse, <b>time-varying</b>, or <b>sequential</b>, data sources- graphs, speech, video, longitudinal data etc.- while also exploiting the geometric structure of the underlying data and loss surfaces, and can <b>quantify the uncertainty</b> of their predictions.  -->
+Hi, I'm Soham. I'm currently a research engineer in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) group, where I work within the Time Series team.
 
-<strong>Research:</strong> My research interests lie broadly in interpretability (mechanistic and otherwise) for sequential data and are motivated by applications in finance and healthcare. I am interested in developing <b>scalable</b>, <b>interpretable</b> tools/models operating on multi-modal data sources to derive domain specific insights while also exploiting the geometric structure of the underlying data, loss surfaces, and domain-specific mathematical constraints. 
+<strong>Research:</strong> My interests lie broadly in interpretability for sequential data — both mechanistic and statistical — with applications in finance and healthcare. I'm particularly focused on building <b>scalable</b>, <b>interpretable</b> tools/models for multi-modal models (specifically sequential) that exploit geometric structure of the underlying data, loss surfaces, and domain-specific mathematical constraints.
   
 
 <!-- <ul>
