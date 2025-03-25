@@ -41,7 +41,6 @@
 #                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
 #                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
 
-
 name: deploy
 
 on:
@@ -65,10 +64,8 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
-
-    - name: Update Bundler
-      run: gem install bundler -v 2.3.26
+        bundler-version: '2.3.26'
+        bundler-cache: false
 
     - name: Install deps
       run: |
