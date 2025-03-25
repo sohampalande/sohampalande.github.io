@@ -36,7 +36,7 @@ Hi, I'm Soham. I'm currently a research engineer in [J.P. Morgan's AI Research](
   </li>
 </ul> -->
 
-<strong>Previously:</strong> I recently graduated from [Rutgers University-NB](https://www.rutgers.edu/) majoring in Computer Science and Mathematics. I was an R&D intern at [L3Harris](https://www.l3harris.com/) where I worked on building anomaly detection models. 
+<strong>Previously:</strong> I graduated from [Rutgers University-NB](https://www.rutgers.edu/) majoring in Computer Science and Mathematics. I was an R&D intern at [L3Harris](https://www.l3harris.com/) where I worked on building anomaly detection models. 
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
