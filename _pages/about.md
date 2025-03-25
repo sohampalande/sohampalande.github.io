@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Soham. I'm currently a research engineer in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) group, where I work within the Time Series team.
 
-<strong>Research:</strong> My interests lie broadly in interpretability for sequential data — both mechanistic and statistical — with applications in finance and healthcare. I'm particularly focused on building <b>scalable</b>, <b>interpretable</b> tools/models for multi-modal models (specifically sequential) that exploit geometric structure of the underlying data, loss surfaces, and domain-specific mathematical constraints.
+<strong>Research:</strong> My interests lie broadly in interpretability for sequential data — both mechanistic and statistical — with applications in finance and healthcare. I'm particularly focused on building <b>scalable</b>, <b>interpretable</b> tools/models for multi-modal models (specifically sequential) that exploit the geometric structure of the underlying data, loss surfaces, and domain-specific mathematical constraints.
   
 
 <!-- <ul>
