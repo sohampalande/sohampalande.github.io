@@ -66,6 +66,9 @@ jobs:
         ruby-version: '3.0.2'
         bundler-version: '2.3.26'
         bundler-cache: false
+        
+    - name: Install Ruby dependencies
+      run: bundle install
 
     - name: Install deps
       run: |
