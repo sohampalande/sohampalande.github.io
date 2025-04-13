@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi, I'm Soham. I'm currently a research engineer in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) group, where I work within the Time Series team.
+Hi, I'm Soham. I'm currently a research engineer in [J.P. Morgan's AI Research](https://www.jpmorgan.com/technology/artificial-intelligence) group.
 
 <strong>Research:</strong>  I study how computational and human models of cognition exhibit **strategic reasoning** in structured, multi-step environments—and their emergence through behavioral evaluation, learned representational structures (from language and fine-tuning), and mechanistic insight in stylized decision-making scenarios involving **uncertainty**, **adaptation**, and **long-term planning**—such as bidding, bluffing, or probabilistic inference—where optimal strategies must be inductively discovered rather than precomputed.
 
